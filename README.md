@@ -7,6 +7,18 @@
 
 注：我所提供的permissionsCN.cfg是我上一个版本所使用的，你可以使用另一个没有被修改的permissions.cfg。
 
+预览主界面
+![CIJZLF_TM)NCSWQV7T3A8KW](https://user-images.githubusercontent.com/63585349/189480212-216a9cb1-0cdb-4a63-98de-4022ffb05b37.png)
+
+预览载具相关选项
+![image](https://user-images.githubusercontent.com/63585349/189480229-35163d8e-7fc1-47b7-a783-d0181d73a034.png)
+
+预览高级选项
+![image](https://user-images.githubusercontent.com/63585349/189480282-b9cdbd8d-aaac-4cd9-a836-7f58d5203653.png)
+
+
+
+
 
 
 任何相关的疑问可以在这里提出或直接联系到我的邮箱：movohou@gmail.com
