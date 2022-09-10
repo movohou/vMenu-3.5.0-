@@ -7,7 +7,9 @@
 
 注：我所提供的permissionsCN.cfg是我上一个版本所使用的，你可以使用另一个没有被修改的permissions.cfg。
 
+
 预览主界面
+
 ![CIJZLF_TM)NCSWQV7T3A8KW](https://user-images.githubusercontent.com/63585349/189480212-216a9cb1-0cdb-4a63-98de-4022ffb05b37.png)
 
 
